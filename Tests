@@ -1,0 +1,3 @@
+tests/invalid/badcall.ml
+fn_r042 f_r042(int_r042 x_r042) : int_r042 { return_r042 x_r042; }
+fn_r042 main_r042() : int_r042 { return_r042 f_r042(); }
