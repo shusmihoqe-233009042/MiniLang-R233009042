@@ -1,0 +1,16 @@
+# Personalized Keywords
+
+These keywords are used in my mini compiler.
+
+| Keyword | Meaning |
+|---|---|
+| i9 | integer |
+| a9 | array |
+| w9 | while |
+| s9 | switch |
+| c9 | case |
+| d9 | default |
+| b9 | break |
+| p9 | print |
+| f9 | if |
+| e9 | else |
